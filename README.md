@@ -6,6 +6,7 @@
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harrish159/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1954-replace-all-digits-with-characters](https://github.com/harrish159/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
+| [1970-sorting-the-sentence](https://github.com/harrish159/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harrish159/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/harrish159/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2881-split-strings-by-separator](https://github.com/harrish159/Leetcode/tree/master/2881-split-strings-by-separator) |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harrish159/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1970-sorting-the-sentence](https://github.com/harrish159/Leetcode/tree/master/1970-sorting-the-sentence) |
 <!---LeetCode Topics End-->
