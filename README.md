@@ -37,4 +37,8 @@
 |  |
 | ------- |
 | [1970-sorting-the-sentence](https://github.com/harrish159/Leetcode/tree/master/1970-sorting-the-sentence) |
+## Math
+|  |
+| ------- |
+| [2630-alternating-digit-sum](https://github.com/harrish159/Leetcode/tree/master/2630-alternating-digit-sum) |
 <!---LeetCode Topics End-->
