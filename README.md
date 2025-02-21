@@ -41,4 +41,8 @@
 |  |
 | ------- |
 | [2630-alternating-digit-sum](https://github.com/harrish159/Leetcode/tree/master/2630-alternating-digit-sum) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/harrish159/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
