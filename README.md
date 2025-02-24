@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harrish159/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1954-replace-all-digits-with-characters](https://github.com/harrish159/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/harrish159/Leetcode/tree/master/1970-sorting-the-sentence) |
@@ -28,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harrish159/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
@@ -40,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
 | [2630-alternating-digit-sum](https://github.com/harrish159/Leetcode/tree/master/2630-alternating-digit-sum) |
 ## Database
 |  |
