@@ -63,6 +63,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/harrish159/Leetcode/tree/master/0338-counting-bits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/harrish159/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/harrish159/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Design
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/harrish159/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/harrish159/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
