@@ -30,6 +30,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/harrish159/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/harrish159/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1791-richest-customer-wealth](https://github.com/harrish159/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/harrish159/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harrish159/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harrish159/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/harrish159/Leetcode/tree/master/0338-counting-bits) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/harrish159/Leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
