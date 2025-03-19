@@ -36,6 +36,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/harrish159/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/harrish159/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2881-split-strings-by-separator](https://github.com/harrish159/Leetcode/tree/master/2881-split-strings-by-separator) |
+| [3227-find-missing-and-repeated-values](https://github.com/harrish159/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3778-transform-array-by-parity](https://github.com/harrish159/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@
 | [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/harrish159/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harrish159/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/harrish159/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
 | [2630-alternating-digit-sum](https://github.com/harrish159/Leetcode/tree/master/2630-alternating-digit-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/harrish159/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/harrish159/Leetcode/tree/master/3371-harshad-number) |
 ## Database
 |  |
@@ -91,4 +94,5 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/harrish159/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/harrish159/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
