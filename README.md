@@ -58,6 +58,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
 | [2630-alternating-digit-sum](https://github.com/harrish159/Leetcode/tree/master/2630-alternating-digit-sum) |
+| [3371-harshad-number](https://github.com/harrish159/Leetcode/tree/master/3371-harshad-number) |
 ## Database
 |  |
 | ------- |
