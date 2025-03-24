@@ -36,6 +36,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/harrish159/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/harrish159/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1217-relative-sort-array](https://github.com/harrish159/Leetcode/tree/master/1217-relative-sort-array) |
+| [1580-shuffle-the-array](https://github.com/harrish159/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/harrish159/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/harrish159/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/harrish159/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
