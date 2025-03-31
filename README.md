@@ -17,6 +17,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/harrish159/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harrish159/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/harrish159/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2886-faulty-keyboard](https://github.com/harrish159/Leetcode/tree/master/2886-faulty-keyboard) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/harrish159/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/harrish159/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/harrish159/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/harrish159/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/harrish159/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1217-relative-sort-array](https://github.com/harrish159/Leetcode/tree/master/1217-relative-sort-array) |
@@ -110,6 +112,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/harrish159/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1791-richest-customer-wealth](https://github.com/harrish159/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/harrish159/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting Sort
