@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harrish159/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/harrish159/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harrish159/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/harrish159/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/harrish159/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -41,6 +42,7 @@
 | [1580-shuffle-the-array](https://github.com/harrish159/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/harrish159/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/harrish159/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/harrish159/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/harrish159/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harrish159/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harrish159/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -70,6 +72,7 @@
 | ------- |
 | [1217-relative-sort-array](https://github.com/harrish159/Leetcode/tree/master/1217-relative-sort-array) |
 | [1970-sorting-the-sentence](https://github.com/harrish159/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/harrish159/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/harrish159/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harrish159/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3226-minimum-number-game](https://github.com/harrish159/Leetcode/tree/master/3226-minimum-number-game) |
@@ -128,5 +131,6 @@
 ## Greedy
 |  |
 | ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/harrish159/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harrish159/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
