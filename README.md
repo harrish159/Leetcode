@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harrish159/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/harrish159/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/harrish159/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harrish159/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/harrish159/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -42,6 +43,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/harrish159/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/harrish159/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1217-relative-sort-array](https://github.com/harrish159/Leetcode/tree/master/1217-relative-sort-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/harrish159/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1580-shuffle-the-array](https://github.com/harrish159/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/harrish159/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/harrish159/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -65,6 +67,7 @@
 | [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/harrish159/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1217-relative-sort-array](https://github.com/harrish159/Leetcode/tree/master/1217-relative-sort-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/harrish159/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harrish159/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/harrish159/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3227-find-missing-and-repeated-values](https://github.com/harrish159/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -79,6 +82,7 @@
 | [0561-array-partition](https://github.com/harrish159/Leetcode/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/harrish159/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1217-relative-sort-array](https://github.com/harrish159/Leetcode/tree/master/1217-relative-sort-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/harrish159/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1970-sorting-the-sentence](https://github.com/harrish159/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/harrish159/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/harrish159/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -145,4 +149,8 @@
 | [0561-array-partition](https://github.com/harrish159/Leetcode/tree/master/0561-array-partition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/harrish159/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harrish159/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/harrish159/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
