@@ -29,6 +29,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/harrish159/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harrish159/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/harrish159/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2561-number-of-distinct-averages](https://github.com/harrish159/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/harrish159/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Array
 |  |
@@ -51,6 +52,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/harrish159/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/harrish159/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2551-apply-operations-to-an-array](https://github.com/harrish159/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2561-number-of-distinct-averages](https://github.com/harrish159/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2881-split-strings-by-separator](https://github.com/harrish159/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harrish159/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3226-minimum-number-game](https://github.com/harrish159/Leetcode/tree/master/3226-minimum-number-game) |
@@ -64,6 +66,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/harrish159/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1217-relative-sort-array](https://github.com/harrish159/Leetcode/tree/master/1217-relative-sort-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harrish159/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2561-number-of-distinct-averages](https://github.com/harrish159/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3227-find-missing-and-repeated-values](https://github.com/harrish159/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
@@ -81,6 +84,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/harrish159/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harrish159/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/harrish159/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2561-number-of-distinct-averages](https://github.com/harrish159/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3226-minimum-number-game](https://github.com/harrish159/Leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/harrish159/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/harrish159/Leetcode/tree/master/3778-transform-array-by-parity) |
