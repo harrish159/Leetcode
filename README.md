@@ -62,6 +62,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/harrish159/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/harrish159/Leetcode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/harrish159/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3582-find-indices-of-stable-mountains](https://github.com/harrish159/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3778-transform-array-by-parity](https://github.com/harrish159/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
