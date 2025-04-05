@@ -116,6 +116,7 @@
 | [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
 | [0172-factorial-trailing-zeroes](https://github.com/harrish159/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0441-arranging-coins](https://github.com/harrish159/Leetcode/tree/master/0441-arranging-coins) |
+| [1610-xor-operation-in-an-array](https://github.com/harrish159/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2630-alternating-digit-sum](https://github.com/harrish159/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/harrish159/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/harrish159/Leetcode/tree/master/3321-type-of-triangle) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/harrish159/Leetcode/tree/master/0338-counting-bits) |
+| [1610-xor-operation-in-an-array](https://github.com/harrish159/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Matrix
 |  |
 | ------- |
