@@ -7,6 +7,7 @@
 | [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harrish159/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/harrish159/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0981-delete-columns-to-make-sorted](https://github.com/harrish159/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1542-consecutive-characters](https://github.com/harrish159/Leetcode/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/harrish159/Leetcode/tree/master/1651-shuffle-string) |
 | [1954-replace-all-digits-with-characters](https://github.com/harrish159/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
@@ -49,6 +50,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/harrish159/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/harrish159/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/harrish159/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0981-delete-columns-to-make-sorted](https://github.com/harrish159/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1217-relative-sort-array](https://github.com/harrish159/Leetcode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harrish159/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/harrish159/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
