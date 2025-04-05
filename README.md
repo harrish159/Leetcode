@@ -15,6 +15,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/harrish159/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2881-split-strings-by-separator](https://github.com/harrish159/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/harrish159/Leetcode/tree/master/2886-faulty-keyboard) |
+| [3533-snake-in-matrix](https://github.com/harrish159/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/harrish159/Leetcode/tree/master/3636-check-balanced-string) |
 ## Simulation
 |  |
@@ -25,6 +26,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/harrish159/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2886-faulty-keyboard](https://github.com/harrish159/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/harrish159/Leetcode/tree/master/3226-minimum-number-game) |
+| [3533-snake-in-matrix](https://github.com/harrish159/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harrish159/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/harrish159/Leetcode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/harrish159/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3533-snake-in-matrix](https://github.com/harrish159/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3582-find-indices-of-stable-mountains](https://github.com/harrish159/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3778-transform-array-by-parity](https://github.com/harrish159/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
