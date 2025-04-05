@@ -7,6 +7,7 @@
 | [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harrish159/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1542-consecutive-characters](https://github.com/harrish159/Leetcode/tree/master/1542-consecutive-characters) |
+| [1651-shuffle-string](https://github.com/harrish159/Leetcode/tree/master/1651-shuffle-string) |
 | [1954-replace-all-digits-with-characters](https://github.com/harrish159/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/harrish159/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harrish159/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -46,6 +47,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/harrish159/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/harrish159/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/harrish159/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1651-shuffle-string](https://github.com/harrish159/Leetcode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/harrish159/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/harrish159/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/harrish159/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
