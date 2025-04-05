@@ -114,6 +114,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
+| [0172-factorial-trailing-zeroes](https://github.com/harrish159/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0441-arranging-coins](https://github.com/harrish159/Leetcode/tree/master/0441-arranging-coins) |
 | [2630-alternating-digit-sum](https://github.com/harrish159/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/harrish159/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
