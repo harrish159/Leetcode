@@ -60,6 +60,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harrish159/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3226-minimum-number-game](https://github.com/harrish159/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/harrish159/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harrish159/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/harrish159/Leetcode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/harrish159/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3582-find-indices-of-stable-mountains](https://github.com/harrish159/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -74,6 +75,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/harrish159/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/harrish159/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3227-find-missing-and-repeated-values](https://github.com/harrish159/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harrish159/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [2283-sort-even-and-odd-indices-independently](https://github.com/harrish159/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2561-number-of-distinct-averages](https://github.com/harrish159/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3226-minimum-number-game](https://github.com/harrish159/Leetcode/tree/master/3226-minimum-number-game) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harrish159/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/harrish159/Leetcode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/harrish159/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/harrish159/Leetcode/tree/master/3778-transform-array-by-parity) |
