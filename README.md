@@ -14,6 +14,7 @@
 | [1970-sorting-the-sentence](https://github.com/harrish159/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harrish159/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/harrish159/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/harrish159/Leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2470-removing-stars-from-a-string](https://github.com/harrish159/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2881-split-strings-by-separator](https://github.com/harrish159/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/harrish159/Leetcode/tree/master/2886-faulty-keyboard) |
