@@ -16,6 +16,7 @@
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/harrish159/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/harrish159/Leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2470-removing-stars-from-a-string](https://github.com/harrish159/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2727-number-of-senior-citizens](https://github.com/harrish159/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2881-split-strings-by-separator](https://github.com/harrish159/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/harrish159/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3533-snake-in-matrix](https://github.com/harrish159/Leetcode/tree/master/3533-snake-in-matrix) |
@@ -68,6 +69,7 @@
 | [2283-sort-even-and-odd-indices-independently](https://github.com/harrish159/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2551-apply-operations-to-an-array](https://github.com/harrish159/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/harrish159/Leetcode/tree/master/2561-number-of-distinct-averages) |
+| [2727-number-of-senior-citizens](https://github.com/harrish159/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2881-split-strings-by-separator](https://github.com/harrish159/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harrish159/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3226-minimum-number-game](https://github.com/harrish159/Leetcode/tree/master/3226-minimum-number-game) |
