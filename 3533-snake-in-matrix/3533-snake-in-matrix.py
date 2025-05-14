@@ -12,7 +12,6 @@ class Solution(object):
             mat.append(row)
         
         for i in commands:
-            
             if i == 'RIGHT':
                 col+=1
 
