@@ -8,6 +8,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/harrish159/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/harrish159/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0981-delete-columns-to-make-sorted](https://github.com/harrish159/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1205-defanging-an-ip-address](https://github.com/harrish159/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1542-consecutive-characters](https://github.com/harrish159/Leetcode/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/harrish159/Leetcode/tree/master/1651-shuffle-string) |
 | [1954-replace-all-digits-with-characters](https://github.com/harrish159/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
