@@ -126,6 +126,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/harrish159/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1610-xor-operation-in-an-array](https://github.com/harrish159/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2630-alternating-digit-sum](https://github.com/harrish159/Leetcode/tree/master/2630-alternating-digit-sum) |
+| [2748-calculate-delayed-arrival-time](https://github.com/harrish159/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [3227-find-missing-and-repeated-values](https://github.com/harrish159/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/harrish159/Leetcode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/harrish159/Leetcode/tree/master/3371-harshad-number) |
