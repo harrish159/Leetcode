@@ -129,6 +129,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/harrish159/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0441-arranging-coins](https://github.com/harrish159/Leetcode/tree/master/0441-arranging-coins) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/harrish159/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1013-fibonacci-number](https://github.com/harrish159/Leetcode/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/harrish159/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/harrish159/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harrish159/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/harrish159/Leetcode/tree/master/0338-counting-bits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/harrish159/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1013-fibonacci-number](https://github.com/harrish159/Leetcode/tree/master/1013-fibonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/harrish159/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Design
 |  |
@@ -203,4 +205,12 @@
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/harrish159/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/harrish159/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/harrish159/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
