@@ -128,6 +128,7 @@
 | [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
 | [0172-factorial-trailing-zeroes](https://github.com/harrish159/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0441-arranging-coins](https://github.com/harrish159/Leetcode/tree/master/0441-arranging-coins) |
+| [0728-self-dividing-numbers](https://github.com/harrish159/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/harrish159/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/harrish159/Leetcode/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/harrish159/Leetcode/tree/master/1610-xor-operation-in-an-array) |
