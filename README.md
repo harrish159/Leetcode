@@ -128,6 +128,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
 | [0172-factorial-trailing-zeroes](https://github.com/harrish159/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0292-nim-game](https://github.com/harrish159/Leetcode/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/harrish159/Leetcode/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/harrish159/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/harrish159/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -216,4 +217,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/harrish159/Leetcode/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/harrish159/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/harrish159/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
