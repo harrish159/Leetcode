@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/harrish159/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/harrish159/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/harrish159/Leetcode/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/harrish159/Leetcode/tree/master/0441-arranging-coins) |
@@ -203,6 +204,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/harrish159/Leetcode/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/harrish159/Leetcode/tree/master/0441-arranging-coins) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harrish159/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
