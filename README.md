@@ -39,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harrish159/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/harrish159/Leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harrish159/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harrish159/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -50,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harrish159/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/harrish159/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/harrish159/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/harrish159/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harrish159/Leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harrish159/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/harrish159/Leetcode/tree/master/0441-arranging-coins) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harrish159/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
