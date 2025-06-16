@@ -10,7 +10,7 @@ class Solution {
             {
                 res[0]=start+1;
                 res[1]=end+1;
-                break;
+                return res;
             }
             else if(sum>target)
             {
@@ -20,6 +20,6 @@ class Solution {
                 start++;
             }
         }
-        return res;
+        return new int[0];
     }
 }
