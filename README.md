@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harrish159/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/harrish159/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harrish159/Leetcode/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harrish159/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/harrish159/Leetcode/tree/master/0283-move-zeroes) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/harrish159/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/harrish159/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/harrish159/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/harrish159/Leetcode/tree/master/0292-nim-game) |
@@ -190,6 +192,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harrish159/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harrish159/Leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/harrish159/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1791-richest-customer-wealth](https://github.com/harrish159/Leetcode/tree/master/1791-richest-customer-wealth) |
