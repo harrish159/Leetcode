@@ -31,6 +31,7 @@
 | [0412-fizz-buzz](https://github.com/harrish159/Leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/harrish159/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/harrish159/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0898-transpose-matrix](https://github.com/harrish159/Leetcode/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/harrish159/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/harrish159/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harrish159/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -69,6 +70,7 @@
 | [0605-can-place-flowers](https://github.com/harrish159/Leetcode/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/harrish159/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/harrish159/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0898-transpose-matrix](https://github.com/harrish159/Leetcode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/harrish159/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0981-delete-columns-to-make-sorted](https://github.com/harrish159/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1217-relative-sort-array](https://github.com/harrish159/Leetcode/tree/master/1217-relative-sort-array) |
@@ -200,6 +202,7 @@
 | [0048-rotate-image](https://github.com/harrish159/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harrish159/Leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/harrish159/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0898-transpose-matrix](https://github.com/harrish159/Leetcode/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/harrish159/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/harrish159/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting Sort
