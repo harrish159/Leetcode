@@ -9,6 +9,7 @@
 | [0412-fizz-buzz](https://github.com/harrish159/Leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harrish159/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/harrish159/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0782-jewels-and-stones](https://github.com/harrish159/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0981-delete-columns-to-make-sorted](https://github.com/harrish159/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1205-defanging-an-ip-address](https://github.com/harrish159/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1542-consecutive-characters](https://github.com/harrish159/Leetcode/tree/master/1542-consecutive-characters) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/harrish159/Leetcode/tree/master/0012-integer-to-roman) |
+| [0782-jewels-and-stones](https://github.com/harrish159/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/harrish159/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1217-relative-sort-array](https://github.com/harrish159/Leetcode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harrish159/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
