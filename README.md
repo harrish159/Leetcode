@@ -47,6 +47,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/harrish159/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harrish159/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/harrish159/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/harrish159/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harrish159/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/harrish159/Leetcode/tree/master/0283-move-zeroes) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/harrish159/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harrish159/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/harrish159/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/harrish159/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harrish159/Leetcode/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harrish159/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -182,6 +184,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harrish159/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/harrish159/Leetcode/tree/master/0338-counting-bits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/harrish159/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/harrish159/Leetcode/tree/master/1013-fibonacci-number) |
@@ -240,6 +243,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harrish159/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2470-removing-stars-from-a-string](https://github.com/harrish159/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -257,4 +261,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/harrish159/Leetcode/tree/master/0292-nim-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harrish159/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
