@@ -45,6 +45,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harrish159/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harrish159/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harrish159/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harrish159/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -59,6 +60,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harrish159/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harrish159/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/harrish159/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harrish159/Leetcode/tree/master/0054-spiral-matrix) |
@@ -223,6 +225,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harrish159/Leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/harrish159/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/harrish159/Leetcode/tree/master/0605-can-place-flowers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/harrish159/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
