@@ -76,6 +76,7 @@
 | [0498-diagonal-traverse](https://github.com/harrish159/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/harrish159/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/harrish159/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/harrish159/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/harrish159/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/harrish159/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/harrish159/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -273,4 +274,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harrish159/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/harrish159/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
